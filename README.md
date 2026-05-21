@@ -27,7 +27,7 @@ Currently working as a **Full Stack Developer Intern** and leading development i
 - Writing clean, maintainable code and participating in code reviews  
 
 ### Member Lead (Web and App Developer)  
-**Google Developer Groups – DIT Pimpri Pune | Sep 2025 – Present**
+**Google Developer Groups – DIT Pimpri Pune | Sep 2025 – Jan 2026**
 
 - Leading web and app development initiatives for 200+ student members  
 - Architecting and deploying full stack applications using React, Node.js, and Firebase  
