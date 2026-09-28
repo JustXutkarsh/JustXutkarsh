@@ -1,601 +1,152 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+👋 Hi, I am Utkarsh Pandey  
 
-<!--                    UTKARSH PANDEY README                       -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-# `UTKARSH PANDEY`
-
-### AI SYSTEMS BUILDER · FULL-STACK ENGINEER · PRODUCT ENGINEER
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=900&color=4C44E4&center=true&vCenter=true&width=850&lines=Building+systems%2C+not+just+demos.;LLMs+%E2%86%92+Agents+%E2%86%92+Products;Research+%E2%86%92+Retrieval+%E2%86%92+Reasoning;Turning+ideas+into+deployed+software.;AI+Engineer+in+the+making." />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-4C44E4?style=for-the-badge\&logo=vercel\&logoColor=white)](https://utkarsh-portfolio-m2py.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/JustXutkarsh)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/utkarsh-pandey)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:utkarshp034@gmail.com)
-
-<br/>
-
-`PUNE, INDIA` · `ELECTRICAL ENGINEERING` · `AI / ML` · `FULL STACK`
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=1A73E8&width=750&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Applied+Machine+Learning+Builder;LLM+and+Agent+Systems;Shipping+Production+Grade+AI" />
 
 ---
 
-## `01` · WHO AM I?
+## 🌱 About Me
 
-```text
-I don't want to just make AI respond.
+I am an Engineering student and **AI Engineer in progress** focused on building production ready AI and full stack systems.
 
-I want to make AI systems work.
-```
+I do not optimize for demos. I optimize for **systems that deploy, scale, and survive real users**.
 
-I'm **Utkarsh Pandey**, an Electrical Engineering student building toward AI engineering.
+My work spans applied machine learning, LLM powered systems, multi agent architectures, computer vision, and end to end full stack development. I enjoy owning the full lifecycle from idea to deployment.
 
-My interests sit at the intersection of:
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   ARTIFICIAL INTELLIGENCE                                    │
-│          ↓                                                   │
-│   LLMs · RAG · AGENTS · MULTIMODAL SYSTEMS                  │
-│          ↓                                                   │
-│   BACKEND · APIs · DATA · RETRIEVAL                         │
-│          ↓                                                   │
-│   FRONTEND · PRODUCT · UX                                   │
-│          ↓                                                   │
-│   DEPLOYMENT · OBSERVABILITY · REAL USERS                   │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I enjoy working on problems where the difficult part isn't simply calling an API.
-
-The interesting part is everything around it:
-
-**retrieval · orchestration · evaluation · confidence · failure handling · system design · deployment**
-
-Currently, I'm building AI systems through **Autonix** while working as a **Full-Stack Developer Intern at Own The Story**.
+Currently working as a **Full Stack Developer Intern** and leading development initiatives in a large student tech community.
 
 ---
 
-## `02` · THE BUILDER PROFILE
+## 💼 Experience
 
-<table>
-<tr>
-<td width="50%">
+### Full Stack Developer Intern  
+**Own The Story (NGO) | Remote | Jan 2026 – Present**
 
-### 🧠 AI SYSTEMS
+- Building frontend features, backend APIs, and database integrations for production web applications  
+- Developing scalable full stack solutions to improve user experience and internal workflows  
+- Collaborating with cross functional teams to ship real features with impact  
+- Writing clean, maintainable code and participating in code reviews  
 
-LLM applications
-RAG pipelines
-Multi-agent architectures
-Vector search
-Embeddings
-MCP
-Prompt engineering
-Multimodal AI
+### Member Lead (Web and App Developer)  
+**Google Developer Groups – DIT Pimpri Pune | Sep 2025 – Jan 2026**
 
-</td>
-
-<td width="50%">
-
-### ⚙️ ENGINEERING
-
-REST APIs
-Full-stack applications
-Data pipelines
-Real-time APIs
-Database systems
-Cloud deployment
-Evaluation harnesses
-Production workflows
-
-</td>
-</tr>
-</table>
-
-### My mental model
-
-```text
-       ┌─────────────┐
-       │    IDEA     │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │  ARCHITECT  │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │    BUILD    │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   EVALUATE  │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   DEPLOY    │
-       └──────┬──────┘
-              ↓
-       ┌─────────────┐
-       │   ITERATE   │
-       └─────────────┘
-```
+- Leading web and app development initiatives for 200+ student members  
+- Architecting and deploying full stack applications using React, Node.js, and Firebase  
+- Building AI powered tools and automation workflows reducing manual processes by 30 percent  
+- Mentoring junior developers in production ready development practices  
 
 ---
 
-# `03` · WHAT I'M BUILDING
+## 💻 Technical Skills
 
-## 🤖 Autonix
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,sql,html,css" />
+</p>
 
-### `AI AUTOMATION AGENCY`
+### AI and Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" />
+</p>
 
-**Co-Founder & AI Systems Lead · 2026 → Present**
+LLMs • Multi Agent Systems • NLP • Computer Vision • RAG • Embeddings • Vector Databases
 
-Building production AI automation systems for businesses across the **UK and UAE**.
+### Full Stack and Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi" />
+</p>
 
-One of the systems I've architected:
+### Databases and Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb" />
+</p>
 
-```text
-                    INCOMING CALL
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │  AI RECEPTION │
-                  │     VAPI      │
-                  └───────┬───────┘
-                          │
-                    Understand
-                     the request
-                          │
-                          ▼
-                  ┌───────────────┐
-                  │     n8n       │
-                  │  ORCHESTRATOR │
-                  └───────┬───────┘
-                          │
-                 ┌────────┴────────┐
-                 ▼                 ▼
-          ┌─────────────┐   ┌─────────────┐
-          │   GOOGLE    │   │   BUSINESS  │
-          │  CALENDAR   │   │   WORKFLOW  │
-          └─────────────┘   └─────────────┘
-```
+Vector Databases: ChromaDB • FAISS • MariaDB Vector
 
-The goal isn't an impressive AI demo.
+### DevOps and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
+</p>
 
-The goal is a workflow that can actually **receive → understand → act → schedule**.
+### Cloud and APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vercel,render" />
+</p>
+
+OpenAI API • GPT 4o • CLIP • Tavily API
 
 ---
 
-# `04` · FEATURED SYSTEMS
+## 📚 Learning Focus
 
-## 🔬 Agentic Research PRO
-
-> **Autonomous research from question → evidence → verified report**
-
-**Python · FastAPI · React · RAG · LLMs · ChromaDB · NVIDIA NIM**
-
-An AI-powered research platform designed to automate the research workflow.
-
-```text
-USER QUESTION
-      │
-      ▼
-┌──────────────┐
-│ WEB SEARCH   │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ WEB SCRAPING │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│   CLEANING   │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│  CHUNKING    │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│  EMBEDDINGS  │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ VECTOR STORE │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│  RETRIEVAL   │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│   REASONING  │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ VERIFICATION │
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ PDF REPORT   │
-└──────────────┘
-```
-
-### What I engineered
-
-* Automated web research
-* RAG pipelines
-* Vector search
-* LLM orchestration
-* Evidence analysis
-* Claim verification
-* Web scraping
-* Real-time SSE APIs
-* Automated PDF generation
-
-**[↗ View Project](https://github.com/JustXutkarsh/Agentic-Resarch)**
+Python • Machine Learning • LLM Systems • Computer Vision • DSA • Full Stack Engineering
 
 ---
 
-## 🧩 Forge
+## 🚀 Projects
 
-### `AI SUPPORT INVESTIGATION PLATFORM`
+### 🔹 Build AI – No Code Full Stack Platform  
+**React, GPT 4, Supabase, Vercel**
 
-**Python · FastAPI · Next.js · ChromaDB · SQLite**
+- Hackathon winning no code platform built in 8 hours  
+- AI powered pipeline generating full stack applications from a visual canvas  
+- One click deployment with backend, authentication, and database setup  
 
-Instead of asking an LLM to blindly answer questions over support data, Forge separates **structured analytics** from **semantic retrieval**.
+### 🔹 Agentic Research PRO  
+**Python, LLMs, ChromaDB, Tavily API, FAISS**
 
-```text
-                     USER QUESTION
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │ DETERMINISTIC   │
-                  │    PLANNER      │
-                  └────────┬────────┘
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-              ▼                         ▼
-       ┌──────────────┐         ┌──────────────┐
-       │    SQLite    │         │   ChromaDB   │
-       │   ANALYTICS  │         │   SEMANTIC   │
-       └──────┬───────┘         │   RETRIEVAL  │
-              │                 └──────┬───────┘
-              └────────────┬───────────┘
-                           ▼
-                  ┌─────────────────┐
-                  │   CONFIDENCE    │
-                  │    + REFUSAL    │
-                  └────────┬────────┘
-                           ▼
-                         ANSWER
-```
+- Autonomous multi agent research system automating search to report generation  
+- Modular pipeline with specialized agents for retrieval, reasoning, and writing  
+- Evidence based outputs with citations and automated PDF export  
 
-### The interesting part
+### 🔹 MedMind AI  
+**React, Supabase, GPT 4o, NLP, Computer Vision**
 
-Forge was designed around a simple principle:
+- AI powered healthcare assistant with medical history analysis  
+- Meal analyzer extracting nutritional data from food images  
+- Secure medical vault with real time sync and authentication  
 
-> **If the system doesn't have enough evidence, it shouldn't pretend it does.**
+### 🔹 SkyVision  
+**Python, CLIP, MariaDB Vector, Streamlit**
 
-The platform includes:
+- Multimodal visual search engine using image and text queries  
+- Shortlisted in MariaDB Hackathon  
+- Achieved 85 percent relevance accuracy on real datasets  
 
-* Deterministic query planning
-* SQL analytics
-* Semantic ticket retrieval
-* Confidence scoring
-* Unsupported-claim refusal
-* Evaluation harness
-* Recall@5 testing
-* Hallucination-rate evaluation
+### 🔹 Calmind  
+**React, GPT 4, NLP**
 
-**[↗ View Project](https://github.com/JustXutkarsh)**
+- Emotional wellness companion with sentiment tracking and journaling  
+- Personalized coping strategies based on emotional patterns  
 
 ---
 
-## 👁️ SkyVision
+## 🏆 Achievements
 
-### `MULTIMODAL SEARCH ENGINE`
-
-**Python · CLIP · MariaDB Vector · Streamlit**
-
-A multimodal search system for airport and airline logos using **CLIP embeddings + vector similarity**.
-
-```text
-             ┌──────────────┐
-             │ IMAGE QUERY  │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │     CLIP     │
-             │  EMBEDDING   │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │  MARIADB     │
-             │    VECTOR    │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │   COSINE     │
-             │  SIMILARITY  │
-             └──────┬───────┘
-                    │
-                    ▼
-             ┌──────────────┐
-             │  RELEVANT    │
-             │   RESULTS    │
-             └──────────────┘
-```
-
-🏁 **MariaDB Hackathon shortlisted**
-
-📊 **85% relevance accuracy**
+- VIBE HACKS 2025: 2nd Place among 600+ teams  
+- 6th Rank in Inter College Hackathon  
+- Completed 50 Day LeetCode Challenge with 200+ problems solved  
+- Andrew Ng Supervised Machine Learning Certification  
+- OpenAI API and Frontend Development Certifications  
 
 ---
 
-# `05` · EXPERIENCE
+## 🔧 Tech Interests
 
-### `01` · CO-FOUNDER & AI SYSTEMS LEAD
-
-**Autonix · Pune / Remote · Jan 2026 → Present**
-
-Building and shipping production AI automation systems for clients across the UK and UAE.
-
-**Focus**
-
-`AI Voice` · `Automation` · `Workflows` · `LLMs` · `Business Systems`
+AI Systems • LLM Engineering • Computer Vision • System Design • Full Stack • Product Engineering • Power Systems
 
 ---
 
-### `02` · FULL-STACK DEVELOPER INTERN
+## ⚡ Personal Traits
 
-**Own The Story · Remote · Jan 2026 → Present**
-
-Building production web applications supporting NGO outreach programs.
-
-**Focus**
-
-`Frontend` · `Backend APIs` · `Database Integration` · `Product Engineering`
+🚀 Builder Mindset  
+🧠 Systems Thinker  
+📚 Fast Learner  
+🎯 Execution Focused  
+🍕 Not a coffee person  
 
 ---
 
-# `06` · TECH STACK
+## 💡 Quote
 
-<div align="center">
-
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,javascript,sql" />
-
-### AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-
-`LLMs` · `RAG` · `Multi-Agent Systems` · `Vector DBs` · `MCP` · `CLIP`
-
-### FULL STACK
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" />
-
-### DATA
-
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
-
-`SQLite` · `ChromaDB` · `FAISS` · `MariaDB Vector`
-
-### INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=docker,vercel,git,github,postman,vscode" />
-
-`REST APIs` · `SSE` · `Firebase` · `Render`
-
-</div>
-
----
-
-# `07` · THE NUMBERS
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### `35K+`
-
-**HACKATHON PARTICIPANTS**
-
-Flipkart GRID
-Semifinalist
-
-</td>
-
-<td align="center">
-
-### `600+`
-
-**TEAMS**
-
-VIBE HACKS 2025
-🥈 2nd Place
-
-</td>
-
-<td align="center">
-
-### `200+`
-
-**TEAMS**
-
-InterCollege
-🏆 Rank 6
-
-</td>
-
-<td align="center">
-
-### `85%`
-
-**RELEVANCE**
-
-SkyVision
-CLIP Search
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# `08` · ACHIEVEMENTS
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  🥈  VIBE HACKS 2025                                        │
-│      2nd Place · 600+ teams                                 │
-│                                                              │
-│  ⚡  FLIPKART GRID                                           │
-│      Semifinalist · 35K+ participants                       │
-│                                                              │
-│  🏆  INTERCOLLEGE HACKATHON                                 │
-│      Rank 6 · 200+ teams                                    │
-│                                                              │
-│  🏅  MARIADB HACKATHON                                      │
-│      SkyVision shortlisted                                  │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
-
----
-
-# `09` · CERTIFICATIONS
-
-| Certification                                                | Organization                          |
-| ------------------------------------------------------------ | ------------------------------------- |
-| Supervised Machine Learning: Regression and Classification   | DeepLearning.AI · Stanford University |
-| Anthropic MCP Servers                                        | Anthropic                             |
-| Using OpenAI APIs: Exploring APIs with the OpenAI Playground | OpenAI                                |
-
----
-
-# `10` · CURRENTLY EXPLORING
-
-```python
-currently_exploring = {
-
-    "ai": [
-        "Agentic Systems",
-        "LLM Reliability",
-        "RAG",
-        "Multimodal AI",
-        "MCP"
-    ],
-
-    "engineering": [
-        "System Design",
-        "Backend Architecture",
-        "Evaluation",
-        "Production AI"
-    ],
-
-    "product": [
-        "AI Automation",
-        "AI-first Products",
-        "Developer Tools"
-    ]
-}
-```
-
----
-
-# `11` · ENGINEERING PRINCIPLES
-
-### 01 · A demo is not a product.
-
-If it only works on the happy path, I'm not finished.
-
-### 02 · AI needs evidence.
-
-Retrieval, evaluation and confidence matter as much as generation.
-
-### 03 · Architecture matters.
-
-A model call inside a UI isn't automatically an AI system.
-
-### 04 · Ship early.
-
-The fastest way to discover what matters is to put the system in front of users.
-
-### 05 · Make failure explicit.
-
-A system that knows when it doesn't know is more useful than one that confidently invents.
-
----
-
-# `12` · EDUCATION
-
-### 🎓 Dr. D. Y. Patil Institute of Technology
-
-**Bachelor of Engineering · Electrical Engineering**
-
-`2024 → 2028` · Pune, Maharashtra
-
-Engineering may be my degree.
-
-**Building intelligent systems is where I'm heading.**
-
----
-
-# `13` · LET'S BUILD SOMETHING
-
-<div align="center">
-
-## Have a difficult problem?
-
-### AI system · Agent · Automation · Full-stack product
-
-**I'm interested in problems where software has to actually work.**
-
-<br/>
-
-<a href="https://utkarsh-portfolio-m2py.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-4C44E4?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="mailto:utkarshp034@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_TALK-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-`BUILT BY UTKARSH PANDEY`
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD → BREAK → LEARN → SHIP → REPEAT`
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=JustXutkarsh&style=for-the-badge&color=4C44E4" />
-
-</div>
+**"The future belongs to builders who ship."**
