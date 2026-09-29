@@ -1,152 +1,207 @@
-👋 Hi, I am Utkarsh Pandey  
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=1A73E8&width=750&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Applied+Machine+Learning+Builder;LLM+and+Agent+Systems;Shipping+Production+Grade+AI" />
+```
+$ whoami
+```
 
----
+# UTKARSH PANDEY
 
-## 🌱 About Me
+### AI Systems Engineer — I don't ship demos. I ship things that survive production.
 
-I am an Engineering student and **AI Engineer in progress** focused on building production ready AI and full stack systems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2259C5&center=true&vCenter=true&width=600&lines=Building+LLM+%2B+RAG+systems+that+don't+hallucinate;Architecting+multi-agent+pipelines;Full-stack+from+idea+to+deploy;Currently%3A+3rd-year+EE+%2F+AI+Systems+Lead" alt="Typing SVG" />
 
-I do not optimize for demos. I optimize for **systems that deploy, scale, and survive real users**.
+<br/>
 
-My work spans applied machine learning, LLM powered systems, multi agent architectures, computer vision, and end to end full stack development. I enjoy owning the full lifecycle from idea to deployment.
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-justxutkarsh.dev-2259C5?style=for-the-badge&logoColor=white)](https://utkarsh-portfolio-m2py.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-JustXutkarsh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustXutkarsh)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-pandey2005/)
+[![Email](https://img.shields.io/badge/EMAIL-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:utkarshp034@gmail.com)
 
-Currently working as a **Full Stack Developer Intern** and leading development initiatives in a large student tech community.
+</div>
 
----
+<br/>
 
-## 💼 Experience
+```diff
++ status: available for AI engineering work
++ based: Pune, India
++ mode: shipping
+```
 
-### Full Stack Developer Intern  
-**Own The Story (NGO) | Remote | Jan 2026 – Present**
+<br/>
 
-- Building frontend features, backend APIs, and database integrations for production web applications  
-- Developing scalable full stack solutions to improve user experience and internal workflows  
-- Collaborating with cross functional teams to ship real features with impact  
-- Writing clean, maintainable code and participating in code reviews  
+## ▸ 01 / ABOUT
 
-### Member Lead (Web and App Developer)  
-**Google Developer Groups – DIT Pimpri Pune | Sep 2025 – Jan 2026**
+> I optimize for systems that **deploy, scale, and survive real users** — not for what demos well in a five-minute pitch.
 
-- Leading web and app development initiatives for 200+ student members  
-- Architecting and deploying full stack applications using React, Node.js, and Firebase  
-- Building AI powered tools and automation workflows reducing manual processes by 30 percent  
-- Mentoring junior developers in production ready development practices  
+3rd-year Electrical Engineering student who ended up living in LLMs, RAG pipelines, and multi-agent architecture. I own the full lifecycle — idea → architecture → deployment → the 2am bug that only shows up in prod. Currently building AI systems for real clients, mentoring 200+ student developers, and trying to make my agents hallucinate less than I do.
 
----
+<br/>
 
-## 💻 Technical Skills
+## ▸ 02 / CURRENTLY RUNNING
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,sql,html,css" />
-</p>
-
-### AI and Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" />
-</p>
-
-LLMs • Multi Agent Systems • NLP • Computer Vision • RAG • Embeddings • Vector Databases
-
-### Full Stack and Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi" />
-</p>
-
-### Databases and Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase,mongodb" />
-</p>
-
-Vector Databases: ChromaDB • FAISS • MariaDB Vector
-
-### DevOps and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman" />
-</p>
-
-### Cloud and APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,render" />
-</p>
-
-OpenAI API • GPT 4o • CLIP • Tavily API
+```yaml
+role: Co-Founder & AI Systems Lead
+company: Autonix — AI Automation Agency
+started: Jan 2026
+scope: >
+  Shipping production AI systems (voice receptionists, booking automation,
+  n8n workflows) for dental, aesthetic & home-service clients across UK/UAE.
 
 ---
 
-## 📚 Learning Focus
+role: Full-Stack Developer Intern
+company: Own The Story (NGO)
+started: Jan 2026
+scope: >
+  Building frontend UI + backend REST APIs for production web apps
+  powering the NGO's outreach programs.
+```
 
-Python • Machine Learning • LLM Systems • Computer Vision • DSA • Full Stack Engineering
+<br/>
 
----
+## ▸ 03 / STACK
 
-## 🚀 Projects
+<div align="center">
 
-### 🔹 Build AI – No Code Full Stack Platform  
-**React, GPT 4, Supabase, Vercel**
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,javascript,sql" />
 
-- Hackathon winning no code platform built in 8 hours  
-- AI powered pipeline generating full stack applications from a visual canvas  
-- One click deployment with backend, authentication, and database setup  
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48"/>
+&nbsp;&nbsp;LLMs · RAG · Multi-Agent Systems · MCP · Vector Search · CLIP · Prompt Engineering
 
-### 🔹 Agentic Research PRO  
-**Python, LLMs, ChromaDB, Tavily API, FAISS**
+**Full-Stack & Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,flask" />
 
-- Autonomous multi agent research system automating search to report generation  
-- Modular pipeline with specialized agents for retrieval, reasoning, and writing  
-- Evidence based outputs with citations and automated PDF export  
+**Data & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=sqlite,supabase,firebase,mongodb,docker,git,vercel" />
 
-### 🔹 MedMind AI  
-**React, Supabase, GPT 4o, NLP, Computer Vision**
+*Vector DBs: ChromaDB · FAISS · MariaDB Vector*
 
-- AI powered healthcare assistant with medical history analysis  
-- Meal analyzer extracting nutritional data from food images  
-- Secure medical vault with real time sync and authentication  
+</div>
 
-### 🔹 SkyVision  
-**Python, CLIP, MariaDB Vector, Streamlit**
+<br/>
 
-- Multimodal visual search engine using image and text queries  
-- Shortlisted in MariaDB Hackathon  
-- Achieved 85 percent relevance accuracy on real datasets  
+## ▸ 04 / DEPLOYED
 
-### 🔹 Calmind  
-**React, GPT 4, NLP**
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-- Emotional wellness companion with sentiment tracking and journaling  
-- Personalized coping strategies based on emotional patterns  
+### 🔎 Agentic Research PRO
+**Autonomous research → report pipeline**
 
----
+Multi-agent system that does what a research analyst does — search, verify, synthesize — without the analyst. Retrieval, reasoning, and writing split across specialized agents with real-time SSE streaming and citation-backed PDF export.
 
-## 🏆 Achievements
+`Python` `FastAPI` `React` `RAG` `ChromaDB` `NVIDIA NIM`
 
-- VIBE HACKS 2025: 2nd Place among 600+ teams  
-- 6th Rank in Inter College Hackathon  
-- Completed 50 Day LeetCode Challenge with 200+ problems solved  
-- Andrew Ng Supervised Machine Learning Certification  
-- OpenAI API and Frontend Development Certifications  
+[`→ Live Demo`](https://utkarsh-portfolio-m2py.vercel.app/) · [`→ Source`](https://github.com/JustXutkarsh)
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🔧 Tech Interests
+### 🛡️ Forge
+**RAG that refuses to lie**
 
-AI Systems • LLM Engineering • Computer Vision • System Design • Full Stack • Product Engineering • Power Systems
+A support-investigation platform where a deterministic planner routes between SQL analytics and semantic retrieval — with confidence scoring that makes it *refuse* unsupported claims. Validated on a 50-case Recall@5/hallucination eval harness, because "trust me" isn't a metric.
 
----
+`Python` `FastAPI` `Next.js` `ChromaDB` `SQLite`
 
-## ⚡ Personal Traits
+[`→ Source`](https://github.com/JustXutkarsh)
 
-🚀 Builder Mindset  
-🧠 Systems Thinker  
-📚 Fast Learner  
-🎯 Execution Focused  
-🍕 Not a coffee person  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🛰️ SkyVision
+**Search by image, not just text**
 
-## 💡 Quote
+Multimodal search engine matching airport/airline logos via CLIP embeddings + MariaDB Vector cosine similarity. Hit 85% relevance accuracy on real-world data. Shortlisted at the MariaDB Hackathon.
+
+`Python` `CLIP` `MariaDB Vector` `Streamlit`
+
+[`→ Source`](https://github.com/JustXutkarsh)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Build AI
+**No-code, full-stack, 8 hours flat**
+
+Hackathon-winning platform that generates entire full-stack apps — backend, auth, DB, one-click deploy — from a visual canvas. Built and shipped in a single hackathon sprint.
+
+`React` `GPT-4` `Supabase` `Vercel`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ▸ 05 / TRACK RECORD
+
+<div align="center">
+
+| Result | Event |
+|:--|:--|
+| 🥈 **2nd Place** | VIBE HACKS 2025 — among 600+ teams (organized by Lovable) |
+| 🏁 **Semifinalist** | Flipkart GRID Hackathon — among 35,000+ participants |
+| 🎖️ **6th Rank** | Inter-College Hackathon — among 200+ teams |
+| ✅ **Certified** | Supervised ML (DeepLearning.AI & Stanford) · Anthropic MCP Servers · OpenAI API |
+
+</div>
+
+<br/>
+
+## ▸ 06 / LEADERSHIP
+
+```
+Member Lead — Web & App Development
+Google Developer Groups, DIT Pimpri Pune
+Sept 2025 – Jan 2026
+
+→ Led dev initiatives for 200+ student members
+→ Architected & deployed full-stack apps (React, Node.js, Firebase)
+→ Built AI automation cutting manual workflow time by 30%
+→ Mentored junior devs on production-grade practices
+```
+
+<br/>
+
+## ▸ 07 / GITHUB SIGNAL
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JustXutkarsh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JustXutkarsh&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustXutkarsh&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+## ▸ 08 / CONNECT
+
+<div align="center">
+
+```
+if (you.are_hiring() || you.want_to_build_something()) {
+  reach_out();
+}
+```
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2259C5?style=flat-square&logo=vercel&logoColor=white)](https://utkarsh-portfolio-m2py.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-pandey2005/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:utkarshp034@gmail.com)
+
+<br/>
 
 **"The future belongs to builders who ship."**
+
+</div>
